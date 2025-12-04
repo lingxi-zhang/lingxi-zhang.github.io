@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "Publication"
+    url: "#publication"
+
+  - title: "Award"
+    url: "#Award"   
+
+  - title: "Experience"
+    url: "#Experience"  
+    
+
